@@ -1,7 +1,7 @@
 <?php
-
-
 /**
+ * Put this in functions.php inide the theme that you are using
+ * 
  * Show insert posts button on backend
  */
 add_action( "admin_notices", function() {
